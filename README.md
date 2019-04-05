@@ -49,7 +49,7 @@ console.log( K )
 
 The main function is:
 
-<img src="https://bitbucket.org/adolfo_s94/montante-jacques/raw/ef604f9d11f74c04aafa4014c72abfe8696f2f19/carbon.png">
+<img src="https://github.com/adolfos94/Bareiss-Algorithm/blob/master/carbon.png?raw=true">
 
 
 ## Contributing
