@@ -1,0 +1,34 @@
+{
+  "name": "montante-jacques",
+  "version": "1.0.1",
+  "description": "Method to obtain modular inverse matrices sized n x n with applications in symmetric cryptography.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://adolfo_s94@bitbucket.org/adolfo_s94/montante-jacques.git"
+  },
+  "keywords": [
+    "montante",
+    "bareiss",
+    "montante-jacques",
+    "security",
+    "cryptography",
+    "matrix",
+    "modular inverse",
+    "encryption"
+  ],
+  "bugs": {
+    "url": "https://bitbucket.org/adolfo_s94/montante-jacques/issues",
+    "email": "adolfo2794@gmail.com"
+  },
+  "author": "Adolfo Solis <adolfo2794@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/adolfo_s94/montante-jacques#readme",
+  "dependencies": {
+    "bareiss": "^1.0.0",
+    "mathjs": "^5.8.0"
+  }
+}
