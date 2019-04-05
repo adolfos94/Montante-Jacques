@@ -14,7 +14,11 @@ Installation is done using the npm install command:
     npm i montante-jacques
 ```
 
-This method uses the Bareiss Algorithm to calculate the determinant of the matrix
+### Bareiss Algorithm
+
+This method uses the Bareiss Algorithm to calculate the determinant of the matrix. See:
+
+* https://www.npmjs.com/package/bareiss
 
 ```
     npm i bareiss
