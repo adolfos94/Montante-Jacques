@@ -1,6 +1,6 @@
 {
   "name": "montante-jacques",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Method to obtain modular inverse matrices sized n x n with applications in symmetric cryptography.",
   "main": "index.js",
   "scripts": {
