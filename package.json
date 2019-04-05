@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://adolfo_s94@bitbucket.org/adolfo_s94/montante-jacques.git"
+    "url": "https://github.com/adolfos94/Montante-Jacques.git"
   },
   "keywords": [
     "montante",
@@ -21,12 +21,12 @@
     "encryption"
   ],
   "bugs": {
-    "url": "https://bitbucket.org/adolfo_s94/montante-jacques/issues",
+    "url": "https://github.com/adolfos94/Montante-Jacques/issues",
     "email": "adolfo2794@gmail.com"
   },
   "author": "Adolfo Solis <adolfo2794@gmail.com>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/adolfo_s94/montante-jacques#readme",
+  "homepage": "https://github.com/adolfos94/Montante-Jacques",
   "dependencies": {
     "bareiss": "^1.0.0",
     "mathjs": "^5.8.0"
